@@ -1,5 +1,6 @@
 public class Uwera{
   public static void main(String [] args){
-    Systems.out.println("Uwera");
-  }
+    System.out.println("Uwera");
+    System.out.println("Hello there"); 
+ }
 }
